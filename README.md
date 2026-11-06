@@ -1,7 +1,7 @@
 # Hi, I'm Senuga Oluwakayode Samuel 👋
 
 **Frontend Web Developer · Lagos, Nigeria 🇳🇬**  
-*Learning in public · HTML → CSS → JavaScript*
+*Learning in public · HTML → CSS → JavaScript → React*
 
 ---
 
@@ -53,7 +53,7 @@ I'm a self-taught frontend developer based in Lagos, Nigeria — learning in pub
 
 ###  What I'm Looking For
 
-> A **frontend internship or junior role** where I can contribute to real products, grow my JavaScript skills, and work with a team that values learning and quality code.
+> A **frontend internship or junior role** where I can contribute to real products, grow my frontend skills, and work with a team that values learning and quality code.
 
 ---
 
